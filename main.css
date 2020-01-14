@@ -1,20 +1,14 @@
 /*General*/
-img{
+img {
 	max-width: 100%;
-}
-
-header{
-	float: center;
 }
 
 
 /*Page*/
 .myimage {
     float:left;
-    width:100px;
-    height:100px;
-    margin:20px;
-    border-radius: 20px;
+    width:10px;
+    height:10px;
 }
 
 /* Left column */
