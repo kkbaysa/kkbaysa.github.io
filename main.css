@@ -19,15 +19,28 @@ li {
 
 
 /*Page*/
+.leftCol{
+	float: left;
+  	width: 75%;
+}
+
+.rightCol{
+	float: left;
+  	width: 25%;
+  	padding-left: 20px;
+}
+
 .myimage {
     float:left;
     width:400px;
     height:500px;
     border-radius: 20px;
     margin:20px;
+    column-count: 3;
 }
 
 .mytext {
 	background-color: #FF96B2;
 	padding: 20px;
+	column-count: 9;
 }
