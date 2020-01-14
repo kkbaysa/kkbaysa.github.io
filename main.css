@@ -10,4 +10,10 @@ img {
     width:400px;
     height:500px;
     border-radius: 20px;
+    margin:20px;
+}
+
+.mytext {
+	background-color: #FF96B2;
+	padding: 20px;
 }
