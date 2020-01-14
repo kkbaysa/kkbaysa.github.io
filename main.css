@@ -18,6 +18,7 @@ h1 {
 }
 
 .mytext {
+	float: right;
 	background-color: #FF96B2;
 	padding: 20px;
 }
