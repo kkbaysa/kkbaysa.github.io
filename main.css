@@ -10,7 +10,7 @@ h1 {
 
 /*Page*/
 .myimage {
-    /*float:left;*/
+    float:left;
     width:400px;
     height:500px;
     border-radius: 20px;
