@@ -1,9 +1,8 @@
 //General
-img{
+/*img{
 	max-width: 100%;
-	max-height: 100%;
 }
-
+*/
 header{
 	float: center;
 }
@@ -12,8 +11,8 @@ header{
 //Page
 .myimage {
     float:left;
-    width:150px;
-    height:175px;
+    width:100px;
+    height:100px;
     margin:20px;
     border-radius: 20px;
 }
