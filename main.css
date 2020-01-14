@@ -1,14 +1,14 @@
-//General
-/*img{
+/*General*/
+img{
 	max-width: 100%;
 }
-*/
+
 header{
 	float: center;
 }
 
 
-//Page
+/*Page*/
 .myimage {
     float:left;
     width:100px;
