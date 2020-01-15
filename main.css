@@ -32,11 +32,10 @@ li {
 
 .myimage {
     float:left;
-    width:400px;
-    height:500px;
+    width: 20%;
+    /*height:500px;*/
     border-radius: 20px;
     margin:20px;
-    column-count: 3;
 }
 
 .mytext {
