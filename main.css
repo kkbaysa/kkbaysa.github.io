@@ -32,7 +32,7 @@ li {
 
 .myimage {
     float:left;
-    width: 100%;
+    width: 80%;
     /*height:500px;*/
     border-radius: 20px;
     margin:20px;
@@ -41,5 +41,4 @@ li {
 .mytext {
 	background-color: #FF96B2;
 	padding: 20px;
-	column-count: 9;
 }
