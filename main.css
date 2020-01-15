@@ -42,4 +42,23 @@ li {
 	background-color: #FF96B2;
 	padding: 20px;
 	margin: 20px;
+	border-radius: 20px;
 }
+
+
+.myFavText{
+	background-color: #AFFA91;
+	padding: 20px;
+	margin: 20px;
+	height: 200px;
+}
+
+.myFavPic{
+	float: left;
+	border-radius: 20px;
+	padding: 20px;
+	margin: 20px;
+	height: 200px;
+}
+
+
